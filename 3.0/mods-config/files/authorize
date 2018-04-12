@@ -88,6 +88,8 @@
 #	Reply-Message := "Hello, %{User-Name}"
 #
 yann	Cleartext-Password := "bonjour"
+laura    Cleartext-Password := "laura"
+       Reply-Message := "bonjour, %{User-Name}"
 
 
 
