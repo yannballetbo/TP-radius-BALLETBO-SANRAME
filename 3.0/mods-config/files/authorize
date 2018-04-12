@@ -87,6 +87,10 @@
 #bob	Cleartext-Password := "hello"
 #	Reply-Message := "Hello, %{User-Name}"
 #
+yann	Cleartext-Password := "bonjour"
+
+
+
 
 #
 # This is an entry for a user with a space in their name.
